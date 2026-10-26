@@ -16,6 +16,6 @@ Included polish:
 - Lazy-loaded gallery assets and non-preloaded video for faster first paint.
 - Vercel security headers included.
 
-IMPORTANT: Indexing is intentionally still disabled with noindex/nofollow and robots.txt Disallow: / because earlier launch instructions said not to change privacy/indexing yet. When ready for public search indexing, change meta robots to index,follow and robots.txt to Allow: /.
+INDEXING (2026-10-25): At owner request, the public custom-domain homepage now allows indexing using meta robots index,follow and robots.txt Allow: /. The sitemap is /sitemap.xml and lists only the canonical public homepage; service sections are on-page anchors, not distinct URLs. Search engines decide whether and when to index.
 
 VIDEO: assets/rxfpv_web_hero.mp4 is the current polished website-ready FPV video. When the new immersive 45-second master is approved, replace this file with the final render using the same filename so no HTML changes are required.
