@@ -19,3 +19,10 @@ Included polish:
 INDEXING (2026-10-25): At owner request, the public custom-domain homepage now allows indexing using meta robots index,follow and robots.txt Allow: /. The sitemap is /sitemap.xml and lists only the canonical public homepage; service sections are on-page anchors, not distinct URLs. Search engines decide whether and when to index.
 
 VIDEO: assets/rxfpv_web_hero.mp4 is the current polished website-ready FPV video. When the new immersive 45-second master is approved, replace this file with the final render using the same filename so no HTML changes are required.
+
+2026-10-30 business-model and UX update:
+- One-time and recurring photography/video/FPV production both offered; no restriction against monthly content.
+- Three recurring-production services added and quote form now captures desired frequency and optional phone.
+- Quote form remains explicitly mailto-based until a verified, no-cost server-side delivery provider is configured. It does not falsely indicate submission and includes copy-details fallback.
+- Fixed sibling service-page links for Vercel cleanUrls; added legacy redirects; canonical and sitemap URLs use non-trailing-slash service paths.
+- Preserve the Golden / Denver West drone-first positioning, brand, media and portfolio.
